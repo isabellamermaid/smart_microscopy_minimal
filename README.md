@@ -1,0 +1,2 @@
+# smart_microscopy_minimal
+napari_plugin-mermaid
